@@ -93,6 +93,28 @@ If you’re a recruiter:
 
 ---
 
+## 🏆 Achievements & Stats
+
+💎 **Smart Coder Diamond Certificate**  
+Awarded for consistent high-performance coding and problem solving (data structures)
+
+🎓 **Academic Excellence**  
+Maintained strong academic performance while actively building real-world projects jee Mains -> 96.5 %ile
+
+🧠 **LeetCode Rating: 1578**  
+Actively sharpening problem solving skills every day  
+🔗 Profile: https://leetcode.com/u/sriramb22/
+
+---
+
+## ⚡ Coding Activity
+
+I don’t just code here…
+
+I code *everywhere.*
+
+---
+
 ## 🤝 Let's Connect
 
 📧 Email: srirambojjalwar.career@gmail.com 
